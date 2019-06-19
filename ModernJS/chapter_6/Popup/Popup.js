@@ -12,5 +12,5 @@ close.addEventListener('click', () => {
 })
 
 popup.addEventListener('click', () =>{
-    popup.style.display = 'none';l
+    popup.style.display = 'none';
 })
